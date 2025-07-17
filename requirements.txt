@@ -1,0 +1,11 @@
+transformers
+gradio
+torch
+sentencepiece
+accelerate
+peft
+auto-gptq
+scikit-learn
+matplotlib
+seaborn
+pandas
